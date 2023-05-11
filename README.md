@@ -1,2 +1,2 @@
 # python_car_game
-![](so_long.gif)
+![](car_game.png)
